@@ -15,7 +15,7 @@
 
 ### **Web Development Projects**
 - [**MeFKA**](https://mefka.com.pl/index.php)
-  - Online shop built with PrestaShop specializing in energy solutions like photovoltaics and air conditioning, designed for easy browsing and secure transactions.
+  - Online shop built with PrestaShop specializing in energy solutions like photovoltaics, air conditioning, energy storage systems, and batteries, designed for easy browsing and secure transactions.
 - [**FSGroupKraków**](https://fsgroupkrakow.com/)
   - Website for FS Group Krakow, a construction and renovation firm, showcasing their portfolio and services with an emphasis on user-friendly navigation
 
