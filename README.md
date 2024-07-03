@@ -25,7 +25,7 @@
 
 ### **GitHub Projects**
 - [**Gravity Bookstore**](https://github.com/Kiryometsy/GravityBookstore)
-  - A bookstore management system developed in C#, showcasing skills in building robust and scalable backend systems. The project includes features for inventory management, user accounts, and transaction processing, highlighting proficiency in full-stack development.
+  - A bookstore management system developed in C#, showcasing skills in building robust and scalable backend systems. The project includes features for inventory management, user accounts, and transaction processing, highlighting proficiency in backend development.
 - [**Szyfry**](https://github.com/Kiryometsy/Szyfry)
   - A repository focusing on cryptography algorithms, demonstrating implementations and solutions for various encryption and decryption techniques.
 - [**Algorytmy**](https://github.com/Kiryometsy/Algorytmy)
