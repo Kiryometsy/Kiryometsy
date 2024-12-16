@@ -4,7 +4,7 @@
 
 👨‍🍳 When I'm in the coding room, I bring the heat! Whether it's software development or IT systems management, I'm here to create innovative solutions. 🚀
 
-🌟 As a second-year Applied Computer Science student, I'm always stirring the pot, eager to learn new recipes (a.k.a. skills) and expand my professional palate. Ready to taste some challenges? I sure am! 🔥
+🌟 As a third-year Applied Computer Science student, I'm always stirring the pot, eager to learn new recipes (a.k.a. skills) and expand my professional palate. Ready to taste some challenges? I sure am! 🔥
 
 📚 Learning and practical experience are my secret ingredients. By combining them effectively, I grow both as a person and a specialist in the IT industry. Watch me innovate and deliver exceptional results! 🍲👾
 
